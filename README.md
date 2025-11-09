@@ -1,7 +1,3 @@
-Below is a **professional, ready-to-use `README.md`** for your **Laravel Course Management System** project.  
-It includes **project setup instructions**, **features**, **tech stack**, **folder structure**, and **contribution guidelines**.
-
----
 
 ```markdown
 # CourseHub – Laravel Course Management System
