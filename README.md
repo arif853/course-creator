@@ -63,7 +63,7 @@ storage/
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/yourusername/coursehub.git
+git clone [https://github.com/yourusername/coursehub.git](https://github.com/arif853/course-creator.git)
 cd coursehub
 composer install
 cp .env.example .env
