@@ -149,32 +149,3 @@ Content → type: text|image|video|link
 ## License
 
 [MIT License](LICENSE)
-
----
-
-**Built with Laravel**  
-*Keep learning, keep building.*
-```
-
----
-
-### Save As: `README.md` in Project Root
-
-```bash
-curl -o README.md https://raw.githubusercontent.com/yourusername/coursehub/main/README.md
-```
-
----
-
-**You're ready for GitHub!**  
-Just push:
-
-```bash
-git add README.md
-git commit -m "Add professional README with setup guide"
-git push
-```
-
-Want a **`.gitignore`**, **`composer.json`**, or **GitHub Actions CI** next?  
-Say: **"Add .gitignore and CI"** and I’ll deliver.
-```
