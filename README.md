@@ -37,6 +37,7 @@ Supports **rich content modules**, **drag-and-drop image uploads**, **background
 
 ```
 app/
+├── Http/Contoller/CourseController.php
 ├── Jobs/ProcessCourseUploads.php
 ├── Models/Course.php, Module.php, Content.php
 resources/
